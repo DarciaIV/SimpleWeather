@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fog.wav",
+        "source": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\raw\\fog.wav"
+    },
+    {
+        "merged": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\raw\\entercity.wav",
+        "source": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\raw\\entercity.wav"
+    },
+    {
+        "merged": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\raw\\rain.wav",
+        "source": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\raw\\rain.wav"
+    },
+    {
+        "merged": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\raw\\drizzle.wav",
+        "source": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\raw\\drizzle.wav"
+    },
+    {
+        "merged": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\raw\\thunder.wav",
+        "source": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\raw\\thunder.wav"
+    },
+    {
+        "merged": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cloudy.wav",
+        "source": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\raw\\cloudy.wav"
+    },
+    {
+        "merged": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\raw\\snow.wav",
+        "source": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\raw\\snow.wav"
+    },
+    {
+        "merged": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sun.wav",
+        "source": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\raw\\sun.wav"
+    },
+    {
+        "merged": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clearnight.wav",
+        "source": "C:\\Users\\Dars\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\raw\\clearnight.wav"
+    }
+]

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_cdc04ddb2b5f87c8fe800f20cb378bce629b5c3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d011ec8d29fbed8a7976cd61b93b18639e9e7630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_3f47aefe8bafaefb259439c6ebbc49dfe1e2e5d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_5f54a5aaf962f74e68186f2226e1434f2a95c6f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_b1b1098cdb485a3ebf255a9686c03d83c0a31f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_772a2ebee42a56721e5d2096dafa2139607ed554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_3e0f7fd7fa0d39f8d32793cf9ef96567c9bcb177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_cb41aa60cd7c42beed416e4221d4f177d89d315b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_a4724da8a2ddf3d058cbbe1649175e704038fc11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_00498923551074d16f12b1bfd61f5e39b83a6391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a225199aaad1976b7a6ddf776606f46de33e138d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_55ed131ed213255e48933fa836e0d8c080ca1ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_e232cc065e01041f242ee359c8b76c27d5616686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_560cb859a3665d86b7985868a9ad1649a2e7b6ab.jar" />
+    </item>
+
+</items>

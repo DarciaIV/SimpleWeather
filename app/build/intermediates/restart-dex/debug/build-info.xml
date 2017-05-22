@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="12497578062889"
+    token="1187269270815694681"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="250070" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3243" />
+    <task
+        name="verifier"
+        duration="453" />
+
+    <artifact
+        location="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="12497578062889"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Dars\AndroidStudioProjects\SimpleWeather\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

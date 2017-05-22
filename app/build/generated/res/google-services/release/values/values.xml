@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">343645340897-64rmh18dqja80hhb0ntcdbktqp98csr8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://simpleweather-8b2ca.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">343645340897</string>
+    <string name="google_api_key" translatable="false">AIzaSyB89I4qnM6jOIQcggpOP62_sxqO1PmkDOM</string>
+    <string name="google_app_id" translatable="false">1:343645340897:android:7ffe07df38d12428</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB89I4qnM6jOIQcggpOP62_sxqO1PmkDOM</string>
+    <string name="google_storage_bucket" translatable="false">simpleweather-8b2ca.appspot.com</string>
+</resources>
